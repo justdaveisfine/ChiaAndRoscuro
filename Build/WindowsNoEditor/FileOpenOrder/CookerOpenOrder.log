@@ -30,21 +30,21 @@
 "D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Geometry/Meshes/CubeMaterial.uexp" 29
 "D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 30
 "D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Geometry/Meshes/1M_Cube_Chamfer.uexp" 31
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_ancientpanel2.uasset" 32
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_ancientpanel2.uexp" 33
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_ancientpanel2.ubulk" 34
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_WA_Panel2.uasset" 35
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_WA_Panel2.uexp" 36
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_Glowy.uasset" 37
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_Glowy.uexp" 38
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_button.uasset" 39
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_button.uexp" 40
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/switchactivate.uasset" 41
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/switchactivate.uexp" 42
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 43
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uexp" 44
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Interactable/Interactable_Template.uasset" 45
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Interactable/Interactable_Template.uexp" 46
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/switchactivate.uasset" 32
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/switchactivate.uexp" 33
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 34
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uexp" 35
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Interactable/Interactable_Template.uasset" 36
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Interactable/Interactable_Template.uexp" 37
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_ancientpanel2.uasset" 38
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_ancientpanel2.uexp" 39
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_ancientpanel2.ubulk" 40
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_WA_Panel2.uasset" 41
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_WA_Panel2.uexp" 42
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_Glowy.uasset" 43
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_Glowy.uexp" 44
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_button.uasset" 45
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_button.uexp" 46
 "D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Interactable/Int_Switch.uasset" 47
 "D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Interactable/Int_Switch.uexp" 48
 "D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 49
@@ -67,62 +67,62 @@
 "D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Animations/ThirdPersonJump_Loop.uexp" 66
 "D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 67
 "D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Animations/ThirdPerson_AnimBP.uexp" 68
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 69
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uexp" 70
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Textures/T_UE4Logo_N.uasset" 71
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Textures/T_UE4Logo_N.uexp" 72
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Textures/T_UE4Logo_N.ubulk" 73
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Textures/T_UE4Logo_Mask.uasset" 74
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Textures/T_UE4Logo_Mask.uexp" 75
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Textures/T_UE4Logo_Mask.ubulk" 76
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Textures/T_Male_N.uasset" 77
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Textures/T_Male_N.uexp" 78
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Textures/T_Male_N.ubulk" 79
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Textures/T_Male_Mask.uasset" 80
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Textures/T_Male_Mask.uexp" 81
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Textures/T_Male_Mask.ubulk" 82
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 83
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uexp" 84
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.ubulk" 85
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 86
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uexp" 87
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.ubulk" 88
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 89
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uexp" 90
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.ubulk" 91
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 92
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uexp" 93
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.ubulk" 94
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 95
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uexp" 96
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 97
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uexp" 98
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 99
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uexp" 100
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 101
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uexp" 102
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 103
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uexp" 104
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 105
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uexp" 106
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 107
-"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uexp" 108
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Materials/M_Male_Body.uasset" 109
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Materials/M_Male_Body.uexp" 110
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 69
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uexp" 70
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.ubulk" 71
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 72
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uexp" 73
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.ubulk" 74
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 75
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uexp" 76
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.ubulk" 77
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 78
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uexp" 79
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.ubulk" 80
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 81
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uexp" 82
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Textures/T_UE4Logo_Mask.uasset" 83
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Textures/T_UE4Logo_Mask.uexp" 84
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Textures/T_UE4Logo_Mask.ubulk" 85
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 86
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uexp" 87
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 88
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uexp" 89
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 90
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uexp" 91
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 92
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uexp" 93
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 94
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uexp" 95
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 96
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uexp" 97
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Textures/T_Male_N.uasset" 98
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Textures/T_Male_N.uexp" 99
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Textures/T_Male_N.ubulk" 100
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Textures/T_Male_Mask.uasset" 101
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Textures/T_Male_Mask.uexp" 102
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Textures/T_Male_Mask.ubulk" 103
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Materials/M_Male_Body.uasset" 104
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Materials/M_Male_Body.uexp" 105
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 106
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uexp" 107
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Textures/T_UE4Logo_N.uasset" 108
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Textures/T_UE4Logo_N.uexp" 109
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Textures/T_UE4Logo_N.ubulk" 110
 "D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 111
 "D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uexp" 112
 "D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 113
 "D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Mesh/SK_Mannequin.uexp" 114
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Mesh/SK_Mannequin_Female_PhysicsAsset.uasset" 115
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Mesh/SK_Mannequin_Female_PhysicsAsset.uexp" 116
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Textures/T_Female_N.uasset" 117
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Textures/T_Female_N.uexp" 118
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Textures/T_Female_N.ubulk" 119
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Textures/T_Female_Mask.uasset" 120
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Textures/T_Female_Mask.uexp" 121
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Textures/T_Female_Mask.ubulk" 122
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Materials/MI_Female_Body.uasset" 123
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Materials/MI_Female_Body.uexp" 124
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Textures/T_Female_N.uasset" 115
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Textures/T_Female_N.uexp" 116
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Textures/T_Female_N.ubulk" 117
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Textures/T_Female_Mask.uasset" 118
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Textures/T_Female_Mask.uexp" 119
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Textures/T_Female_Mask.ubulk" 120
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Materials/MI_Female_Body.uasset" 121
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Materials/MI_Female_Body.uexp" 122
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Mesh/SK_Mannequin_Female_PhysicsAsset.uasset" 123
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Mesh/SK_Mannequin_Female_PhysicsAsset.uexp" 124
 "D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Mesh/SK_Mannequin_Female.uasset" 125
 "D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Mesh/SK_Mannequin_Female.uexp" 126
 "D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/EffectsClass.uasset" 127
@@ -161,93 +161,93 @@
 "D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/Roscuro_AnimBP.uexp" 160
 "D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/Chia_Anim_BP.uasset" 161
 "D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/Chia_Anim_BP.uexp" 162
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/roscuro_rig_PhysicsAsset.uasset" 163
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/roscuro_rig_PhysicsAsset.uexp" 164
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/roscuro_mouth_neutral.uasset" 165
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/roscuro_mouth_neutral.uexp" 166
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/roscuro_mouth_neutral.ubulk" 167
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/roscuro_eye_neutral.uasset" 168
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/roscuro_eye_neutral.uexp" 169
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/roscuro_eye_neutral.ubulk" 170
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/MM_charFace.uasset" 171
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/MM_charFace.uexp" 172
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/MI_roscuroMouth.uasset" 173
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/MI_roscuroMouth.uexp" 174
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/MI_roscuroEyes.uasset" 175
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/MI_roscuroEyes.uexp" 176
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/roscuro_color_sheet.uasset" 177
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/roscuro_color_sheet.uexp" 178
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/roscuro_color_sheet.ubulk" 179
-"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 180
-"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uexp" 181
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/MM_charBody.uasset" 182
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/MM_charBody.uexp" 183
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/MI_roscuroBody.uasset" 184
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/MI_roscuroBody.uexp" 185
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/roscuro_rig.uasset" 186
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/roscuro_rig.uexp" 187
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/sizzle.uasset" 188
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/sizzle.uexp" 189
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/sizzle_Cue.uasset" 190
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/sizzle_Cue.uexp" 191
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/DialogueClass.uasset" 192
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/DialogueClass.uexp" 193
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/hyahmale.uasset" 194
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/hyahmale.uexp" 195
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/hyahmale_Cue.uasset" 196
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/hyahmale_Cue.uexp" 197
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_button1_hollow.uasset" 198
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_button1_hollow.uexp" 199
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_button1_hollow.ubulk" 200
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_playerhearts.uasset" 201
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_playerhearts.uexp" 202
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Core/Fonts/LuxuriousRoman-Regular.uasset" 203
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Core/Fonts/LuxuriousRoman-Regular.uexp" 204
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Core/Fonts/LuxuriousRoman-Regular.ufont" 205
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Core/Fonts/LuxuriousRoman-Regular_Font.uasset" 206
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Core/Fonts/LuxuriousRoman-Regular_Font.uexp" 207
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/UI/PlayerUI.uasset" 208
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/UI/PlayerUI.uexp" 209
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Core/InteractingComponent.uasset" 210
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Core/InteractingComponent.uexp" 211
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/UI/Pause_UI.uasset" 212
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/UI/Pause_UI.uexp" 213
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/chia_rig_PhysicsAsset.uasset" 214
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/chia_rig_PhysicsAsset.uexp" 215
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/chia_mouth_neutral.uasset" 216
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/chia_mouth_neutral.uexp" 217
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/chia_mouth_neutral.ubulk" 218
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/MI_chiaMouth.uasset" 219
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/MI_chiaMouth.uexp" 220
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/chia_eye_neutral.uasset" 221
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/chia_eye_neutral.uexp" 222
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/chia_eye_neutral.ubulk" 223
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/MI_chiaEyes.uasset" 224
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/MI_chiaEyes.uexp" 225
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/chia_dress.uasset" 226
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/chia_dress.uexp" 227
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/chia_dress.ubulk" 228
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/MM_charClothes.uasset" 229
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/MM_charClothes.uexp" 230
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/MI_chiaDress.uasset" 231
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/MI_chiaDress.uexp" 232
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/chia_color_sheet.uasset" 233
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/chia_color_sheet.uexp" 234
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/chia_color_sheet.ubulk" 235
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/MI_chiaBody.uasset" 236
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/MI_chiaBody.uexp" 237
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/chia_rig.uasset" 238
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/chia_rig.uexp" 239
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/hyahfemake.uasset" 240
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/hyahfemake.uexp" 241
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/hyahfemake_Cue.uasset" 242
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/hyahfemake_Cue.uexp" 243
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/Char_Chia.uasset" 244
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/Char_Chia.uexp" 245
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Core/CoreGameInstance.uasset" 246
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Core/CoreGameInstance.uexp" 247
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Core/CoreGameMode.uasset" 248
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Core/CoreGameMode.uexp" 249
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Core/Fonts/LuxuriousRoman-Regular.uasset" 163
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Core/Fonts/LuxuriousRoman-Regular.uexp" 164
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Core/Fonts/LuxuriousRoman-Regular.ufont" 165
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Core/Fonts/LuxuriousRoman-Regular_Font.uasset" 166
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Core/Fonts/LuxuriousRoman-Regular_Font.uexp" 167
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_playerhearts.uasset" 168
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_playerhearts.uexp" 169
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_button1_hollow.uasset" 170
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_button1_hollow.uexp" 171
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_button1_hollow.ubulk" 172
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/UI/PlayerUI.uasset" 173
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/UI/PlayerUI.uexp" 174
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Core/InteractingComponent.uasset" 175
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Core/InteractingComponent.uexp" 176
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/UI/Pause_UI.uasset" 177
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/UI/Pause_UI.uexp" 178
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/chia_rig_PhysicsAsset.uasset" 179
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/chia_rig_PhysicsAsset.uexp" 180
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/roscuro_eye_neutral.uasset" 181
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/roscuro_eye_neutral.uexp" 182
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/roscuro_eye_neutral.ubulk" 183
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/MM_charFace.uasset" 184
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/MM_charFace.uexp" 185
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/chia_mouth_neutral.uasset" 186
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/chia_mouth_neutral.uexp" 187
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/chia_mouth_neutral.ubulk" 188
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/MI_chiaMouth.uasset" 189
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/MI_chiaMouth.uexp" 190
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/chia_eye_neutral.uasset" 191
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/chia_eye_neutral.uexp" 192
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/chia_eye_neutral.ubulk" 193
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/MI_chiaEyes.uasset" 194
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/MI_chiaEyes.uexp" 195
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/chia_dress.uasset" 196
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/chia_dress.uexp" 197
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/chia_dress.ubulk" 198
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/MM_charClothes.uasset" 199
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/MM_charClothes.uexp" 200
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/MI_chiaDress.uasset" 201
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/MI_chiaDress.uexp" 202
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/roscuro_color_sheet.uasset" 203
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/roscuro_color_sheet.uexp" 204
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/roscuro_color_sheet.ubulk" 205
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 206
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uexp" 207
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/MM_charBody.uasset" 208
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/MM_charBody.uexp" 209
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/chia_color_sheet.uasset" 210
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/chia_color_sheet.uexp" 211
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/chia_color_sheet.ubulk" 212
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/MI_chiaBody.uasset" 213
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/MI_chiaBody.uexp" 214
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/chia_rig.uasset" 215
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/chia_rig.uexp" 216
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/DialogueClass.uasset" 217
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/DialogueClass.uexp" 218
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/hyahfemake.uasset" 219
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/hyahfemake.uexp" 220
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/hyahfemake_Cue.uasset" 221
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/hyahfemake_Cue.uexp" 222
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/Char_Chia.uasset" 223
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/Char_Chia.uexp" 224
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Core/CoreGameInstance.uasset" 225
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Core/CoreGameInstance.uexp" 226
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Core/CoreGameMode.uasset" 227
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Core/CoreGameMode.uexp" 228
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/roscuro_rig_PhysicsAsset.uasset" 229
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/roscuro_rig_PhysicsAsset.uexp" 230
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/roscuro_mouth_neutral.uasset" 231
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/roscuro_mouth_neutral.uexp" 232
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/roscuro_mouth_neutral.ubulk" 233
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/MI_roscuroMouth.uasset" 234
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/MI_roscuroMouth.uexp" 235
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/MI_roscuroEyes.uasset" 236
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/MI_roscuroEyes.uexp" 237
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/MI_roscuroBody.uasset" 238
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/MI_roscuroBody.uexp" 239
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/roscuro_rig.uasset" 240
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/roscuro_rig.uexp" 241
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/sizzle.uasset" 242
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/sizzle.uexp" 243
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/sizzle_Cue.uasset" 244
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/sizzle_Cue.uexp" 245
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/hyahmale.uasset" 246
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/hyahmale.uexp" 247
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/hyahmale_Cue.uasset" 248
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/hyahmale_Cue.uexp" 249
 "D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/Char_Roscuro.uasset" 250
 "D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/Char_Roscuro.uexp" 251
 "D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset" 252
@@ -358,10 +358,10 @@
 "../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uexp" 357
 "../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 358
 "../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uexp" 359
-"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 360
-"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uexp" 361
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 362
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uexp" 363
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 360
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uexp" 361
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 362
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uexp" 363
 "../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 364
 "../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uexp" 365
 "../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 366
@@ -493,12 +493,12 @@
 "../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.ubulk" 492
 "../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uasset" 493
 "../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uexp" 494
-"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset" 495
-"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uexp" 496
-"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset" 497
-"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uexp" 498
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 499
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uexp" 500
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 495
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uexp" 496
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset" 497
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uexp" 498
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset" 499
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uexp" 500
 "../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset" 501
 "../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uexp" 502
 "../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset" 503
@@ -589,29 +589,29 @@
 "../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uexp" 588
 "../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 589
 "../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uexp" 590
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 591
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uexp" 592
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 593
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uexp" 594
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 595
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uexp" 596
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 597
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uexp" 598
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 599
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uexp" 600
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 601
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uexp" 602
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 603
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uexp" 604
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.ubulk" 605
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 606
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uexp" 607
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 608
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uexp" 609
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 610
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uexp" 611
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 612
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uexp" 613
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 591
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uexp" 592
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 593
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uexp" 594
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 595
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uexp" 596
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 597
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uexp" 598
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.ubulk" 599
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 600
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uexp" 601
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 602
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uexp" 603
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 604
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uexp" 605
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 606
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uexp" 607
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 608
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uexp" 609
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 610
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uexp" 611
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 612
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uexp" 613
 "../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 614
 "../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uexp" 615
 "../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 616
@@ -726,10 +726,10 @@
 "../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Right/MI_right_ValveIndex.uexp" 725
 "../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Right/right_ValveIndexController.uasset" 726
 "../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Right/right_ValveIndexController.uexp" 727
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 728
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uexp" 729
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 730
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uexp" 731
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 728
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uexp" 729
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 730
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uexp" 731
 "../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 732
 "../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uexp" 733
 "../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 734
@@ -759,16 +759,16 @@
 "../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uexp" 758
 "../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchForQuestRiftSController.uasset" 759
 "../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchForQuestRiftSController.uexp" 760
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/CutsceneCards/T_cutscene_intro_01.uasset" 761
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/CutsceneCards/T_cutscene_intro_01.uexp" 762
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/CutsceneCards/T_cutscene_intro_01_Mat.uasset" 763
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/CutsceneCards/T_cutscene_intro_01_Mat.uexp" 764
-"../../../Engine/Content/BasicShapes/Plane.uasset" 765
-"../../../Engine/Content/BasicShapes/Plane.uexp" 766
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/Cutscene_Pawn.uasset" 767
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/Cutscene_Pawn.uexp" 768
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Core/CutsceneGameMode.uasset" 769
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Core/CutsceneGameMode.uexp" 770
+"../../../Engine/Content/BasicShapes/Plane.uasset" 761
+"../../../Engine/Content/BasicShapes/Plane.uexp" 762
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Core/CutsceneGameMode.uasset" 763
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Core/CutsceneGameMode.uexp" 764
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/CutsceneCards/T_cutscene_intro_01.uasset" 765
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/CutsceneCards/T_cutscene_intro_01.uexp" 766
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/CutsceneCards/T_cutscene_intro_01_Mat.uasset" 767
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/CutsceneCards/T_cutscene_intro_01_Mat.uexp" 768
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/Cutscene_Pawn.uasset" 769
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/Cutscene_Pawn.uexp" 770
 "D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_ancientpanel3.uasset" 771
 "D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_ancientpanel3.uexp" 772
 "D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_ancientpanel3.ubulk" 773
@@ -784,186 +784,186 @@
 "D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_WA_Ceramic.uexp" 783
 "D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Maps/Cutscene_Outro.uexp" 784
 "D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Maps/Cutscene_Outro.umap" 785
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_flatrug.uasset" 786
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_flatrug.uexp" 787
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_mask_grass1.uasset" 788
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_mask_grass1.uexp" 789
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_mask_grass1.ubulk" 790
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/WorldPositionOffset/SimpleGrassWind.uasset" 791
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/WorldPositionOffset/SimpleGrassWind.uexp" 792
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_Grass1.uasset" 793
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_Grass1.uexp" 794
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_grass1.uasset" 795
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_grass1.uexp" 796
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_pillar1.uasset" 797
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_pillar1.uexp" 798
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_strut1.uasset" 799
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_strut1.uexp" 800
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_arch1.uasset" 801
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_arch1.uexp" 802
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_WA_Panel3.uasset" 803
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_WA_Panel3.uexp" 804
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_Glowy_Inert.uasset" 805
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_Glowy_Inert.uexp" 806
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_light1.uasset" 807
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_light1.uexp" 808
-"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 809
-"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uexp" 810
-"../../../Engine/Content/MapTemplates/daylight.uasset" 811
-"../../../Engine/Content/MapTemplates/daylight.uexp" 812
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 813
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uexp" 814
-"../../../Engine/Content/EngineSky/T_Sky_Stars.ubulk" 815
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 816
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uexp" 817
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.ubulk" 818
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 819
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uexp" 820
-"../../../Engine/Content/EngineSky/T_Sky_Blue.ubulk" 821
-"../../../Engine/Content/BasicShapes/Cube.uasset" 822
-"../../../Engine/Content/BasicShapes/Cube.uexp" 823
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 824
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uexp" 825
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Maps/MM_Map_BuiltData.uasset" 826
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Maps/MM_Map_BuiltData.uexp" 827
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 828
-"../../../Engine/Content/EngineSky/SM_SkySphere.uexp" 829
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 830
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uexp" 831
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 832
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uexp" 833
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 834
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uexp" 835
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 836
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uexp" 837
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/MusicClass.uasset" 838
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/MusicClass.uexp" 839
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/ms_test_menu.uasset" 840
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/ms_test_menu.uexp" 841
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_button1.uasset" 842
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_button1.uexp" 843
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_button1.ubulk" 844
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/UI/MM_UI.uasset" 845
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/UI/MM_UI.uexp" 846
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/MM_Pawn.uasset" 847
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/MM_Pawn.uexp" 848
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Core/MMGameMode.uasset" 849
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Core/MMGameMode.uexp" 850
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_mask_tilefloor1.uasset" 851
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_mask_tilefloor1.uexp" 852
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_mask_tilefloor1.ubulk" 853
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_WA_Tile1.uasset" 854
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_WA_Tile1.uexp" 855
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_WA_Fabric1.uasset" 856
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_WA_Fabric1.uexp" 857
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_WA_Brick1.uasset" 858
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_WA_Brick1.uexp" 859
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_mask_vines1.uasset" 860
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_mask_vines1.uexp" 861
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_mask_vines1.ubulk" 862
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_Vines.uasset" 863
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_Vines.uexp" 864
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_Glowy2.uasset" 865
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_Glowy2.uexp" 866
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 786
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uexp" 787
+"../../../Engine/Content/MapTemplates/daylight.uasset" 788
+"../../../Engine/Content/MapTemplates/daylight.uexp" 789
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 790
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uexp" 791
+"../../../Engine/Content/EngineSky/T_Sky_Stars.ubulk" 792
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 793
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uexp" 794
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.ubulk" 795
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 796
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uexp" 797
+"../../../Engine/Content/EngineSky/T_Sky_Blue.ubulk" 798
+"../../../Engine/Content/BasicShapes/Cube.uasset" 799
+"../../../Engine/Content/BasicShapes/Cube.uexp" 800
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 801
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uexp" 802
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Maps/MM_Map_BuiltData.uasset" 803
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Maps/MM_Map_BuiltData.uexp" 804
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 805
+"../../../Engine/Content/EngineSky/SM_SkySphere.uexp" 806
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 807
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uexp" 808
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 809
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uexp" 810
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 811
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uexp" 812
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 813
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uexp" 814
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_button1.uasset" 815
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_button1.uexp" 816
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_button1.ubulk" 817
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/UI/MM_UI.uasset" 818
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/UI/MM_UI.uexp" 819
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/MM_Pawn.uasset" 820
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/MM_Pawn.uexp" 821
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Core/MMGameMode.uasset" 822
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Core/MMGameMode.uexp" 823
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_strut1.uasset" 824
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_strut1.uexp" 825
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/MusicClass.uasset" 826
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/MusicClass.uexp" 827
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/ms_test_menu.uasset" 828
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/ms_test_menu.uexp" 829
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_mask_tilefloor1.uasset" 830
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_mask_tilefloor1.uexp" 831
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_mask_tilefloor1.ubulk" 832
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_WA_Tile1.uasset" 833
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_WA_Tile1.uexp" 834
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_WA_Panel3.uasset" 835
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_WA_Panel3.uexp" 836
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_WA_Fabric1.uasset" 837
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_WA_Fabric1.uexp" 838
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_WA_Brick1.uasset" 839
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_WA_Brick1.uexp" 840
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_mask_vines1.uasset" 841
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_mask_vines1.uexp" 842
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_mask_vines1.ubulk" 843
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_Vines.uasset" 844
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_Vines.uexp" 845
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_Glowy2.uasset" 846
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_Glowy2.uexp" 847
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_flatrug.uasset" 848
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_flatrug.uexp" 849
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_mask_grass1.uasset" 850
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_mask_grass1.uexp" 851
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_mask_grass1.ubulk" 852
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/WorldPositionOffset/SimpleGrassWind.uasset" 853
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/WorldPositionOffset/SimpleGrassWind.uexp" 854
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_Grass1.uasset" 855
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_Grass1.uexp" 856
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_grass1.uasset" 857
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_grass1.uexp" 858
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_Glowy_Inert.uasset" 859
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_Glowy_Inert.uexp" 860
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_light1.uasset" 861
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_light1.uexp" 862
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_pillar1.uasset" 863
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_pillar1.uexp" 864
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_arch1.uasset" 865
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_arch1.uexp" 866
 "D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Maps/MM_Map.uexp" 867
 "D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Maps/MM_Map.umap" 868
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_woodgrain.uasset" 869
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_woodgrain.uexp" 870
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_woodgrain.ubulk" 871
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_WA_WoodGrain.uasset" 872
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_WA_WoodGrain.uexp" 873
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_minecart_rail.uasset" 874
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_minecart_rail.uexp" 875
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_pot1.uasset" 876
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_pot1.uexp" 877
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_minecart.uasset" 878
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_minecart.uexp" 879
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_mask_woodplanks.uasset" 880
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_mask_woodplanks.uexp" 881
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_mask_woodplanks.ubulk" 882
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_WA_WoodPlanks1.uasset" 883
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_WA_WoodPlanks1.uexp" 884
-"../../../Engine/Content/BasicShapes/Sphere.uasset" 885
-"../../../Engine/Content/BasicShapes/Sphere.uexp" 886
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset" 887
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uexp" 888
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uasset" 889
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uexp" 890
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPerson/Meshes/LeftArm_StaticMesh.uasset" 891
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPerson/Meshes/LeftArm_StaticMesh.uexp" 892
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/22_Game_Jam_-_1_29_22__2_42_PM.uasset" 893
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/22_Game_Jam_-_1_29_22__2_42_PM.uexp" 894
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/22_Game_Jam_-_1_29_22__2_42_PM_Cue.uasset" 895
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/22_Game_Jam_-_1_29_22__2_42_PM_Cue.uexp" 896
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/LightBPs/M_PitchBlack.uasset" 897
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/LightBPs/M_PitchBlack.uexp" 898
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/LightBPs/M_BlackFog.uasset" 899
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/LightBPs/M_BlackFog.uexp" 900
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/LightBPs/T_gobo_damagedCeiling02.uasset" 901
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/LightBPs/T_gobo_damagedCeiling02.uexp" 902
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/LightBPs/T_gobo_damagedCeiling02.ubulk" 903
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/LightBPs/T_gobo_damagedCeiling01.uasset" 904
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/LightBPs/T_gobo_damagedCeiling01.uexp" 905
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/LightBPs/T_gobo_damagedCeiling01.ubulk" 906
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/LightBPs/MM_gobo.uasset" 907
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/LightBPs/MM_gobo.uexp" 908
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/LightBPs/MI_gobo_damagedCeiling02_Smaller.uasset" 909
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/LightBPs/MI_gobo_damagedCeiling02_Smaller.uexp" 910
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/LightBPs/MI_gobo_damagedCeiling02.uasset" 911
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/LightBPs/MI_gobo_damagedCeiling02.uexp" 912
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/LightBPs/MI_gobo_damagedCeiling01.uasset" 913
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/LightBPs/MI_gobo_damagedCeiling01.uexp" 914
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/LightBPs/Light_NoLightTrigger.uasset" 915
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/LightBPs/Light_NoLightTrigger.uexp" 916
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_Blank.uasset" 917
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_Blank.uexp" 918
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_lightcone.uasset" 919
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_lightcone.uexp" 920
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/LightBPs/Light_Spotlight.uasset" 921
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/LightBPs/Light_Spotlight.uexp" 922
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_AncientPanel_Moving1.uasset" 923
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_AncientPanel_Moving1.uexp" 924
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_spotlight.uasset" 925
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_spotlight.uexp" 926
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Interactable/Int_SwitchedRotatingLight.uasset" 927
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Interactable/Int_SwitchedRotatingLight.uexp" 928
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_platform.uasset" 929
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_platform.uexp" 930
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Interactable/Int_SwitchedPlatform_Moving.uasset" 931
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Interactable/Int_SwitchedPlatform_Moving.uexp" 932
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Interactable/Int_SwitchedPlatform.uasset" 933
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Interactable/Int_SwitchedPlatform.uexp" 934
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/LightBPs/Light_Area.uasset" 935
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/LightBPs/Light_Area.uexp" 936
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Interactable/Int_SwitchedLightOn.uasset" 937
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Interactable/Int_SwitchedLightOn.uexp" 938
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Interactable/Int_SwitchedLight.uasset" 939
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Interactable/Int_SwitchedLight.uexp" 940
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/doorclosing.uasset" 941
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/doorclosing.uexp" 942
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Interactable/Int_SwitchedDoor.uasset" 943
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Interactable/Int_SwitchedDoor.uexp" 944
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_Shiny.uasset" 945
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_Shiny.uexp" 946
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Interactable/CoinPickup.uasset" 947
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Interactable/CoinPickup.uexp" 948
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Interactable/CheckPoint.uasset" 949
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Interactable/CheckPoint.uexp" 950
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Geometry/Meshes/TemplateFloor.uasset" 951
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Geometry/Meshes/TemplateFloor.uexp" 952
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Geometry/Meshes/1M_Cube.uasset" 953
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Geometry/Meshes/1M_Cube.uexp" 954
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Core/FadeInDefaultTextMat.uasset" 955
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Core/FadeInDefaultTextMat.uexp" 956
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_WA_Grassy.uasset" 957
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_WA_Grassy.uexp" 958
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_WA_AncientPanel1.uasset" 959
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_WA_AncientPanel1.uexp" 960
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_spiderweb.uasset" 961
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_spiderweb.uexp" 962
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_spiderweb.ubulk" 963
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_SpiderWeb.uasset" 964
-"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_SpiderWeb.uexp" 965
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 869
+"../../../Engine/Content/BasicShapes/Sphere.uexp" 870
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset" 871
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uexp" 872
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/LightBPs/M_PitchBlack.uasset" 873
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/LightBPs/M_PitchBlack.uexp" 874
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/LightBPs/M_BlackFog.uasset" 875
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/LightBPs/M_BlackFog.uexp" 876
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/LightBPs/T_gobo_damagedCeiling02.uasset" 877
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/LightBPs/T_gobo_damagedCeiling02.uexp" 878
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/LightBPs/T_gobo_damagedCeiling02.ubulk" 879
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/LightBPs/T_gobo_damagedCeiling01.uasset" 880
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/LightBPs/T_gobo_damagedCeiling01.uexp" 881
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/LightBPs/T_gobo_damagedCeiling01.ubulk" 882
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/LightBPs/MM_gobo.uasset" 883
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/LightBPs/MM_gobo.uexp" 884
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/LightBPs/MI_gobo_damagedCeiling02_Smaller.uasset" 885
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/LightBPs/MI_gobo_damagedCeiling02_Smaller.uexp" 886
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/LightBPs/MI_gobo_damagedCeiling02.uasset" 887
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/LightBPs/MI_gobo_damagedCeiling02.uexp" 888
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/LightBPs/MI_gobo_damagedCeiling01.uasset" 889
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/LightBPs/MI_gobo_damagedCeiling01.uexp" 890
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/LightBPs/Light_NoLightTrigger.uasset" 891
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/LightBPs/Light_NoLightTrigger.uexp" 892
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_Blank.uasset" 893
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_Blank.uexp" 894
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_lightcone.uasset" 895
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_lightcone.uexp" 896
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/LightBPs/Light_Spotlight.uasset" 897
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/LightBPs/Light_Spotlight.uexp" 898
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_AncientPanel_Moving1.uasset" 899
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_AncientPanel_Moving1.uexp" 900
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_spotlight.uasset" 901
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_spotlight.uexp" 902
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Interactable/Int_SwitchedRotatingLight.uasset" 903
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Interactable/Int_SwitchedRotatingLight.uexp" 904
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_platform.uasset" 905
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_platform.uexp" 906
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Interactable/Int_SwitchedPlatform_Moving.uasset" 907
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Interactable/Int_SwitchedPlatform_Moving.uexp" 908
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Interactable/Int_SwitchedPlatform.uasset" 909
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Interactable/Int_SwitchedPlatform.uexp" 910
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/LightBPs/Light_Area.uasset" 911
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/LightBPs/Light_Area.uexp" 912
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Interactable/Int_SwitchedLightOn.uasset" 913
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Interactable/Int_SwitchedLightOn.uexp" 914
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Interactable/Int_SwitchedLight.uasset" 915
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Interactable/Int_SwitchedLight.uexp" 916
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/doorclosing.uasset" 917
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/doorclosing.uexp" 918
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Interactable/Int_SwitchedDoor.uasset" 919
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Interactable/Int_SwitchedDoor.uexp" 920
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_Shiny.uasset" 921
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_Shiny.uexp" 922
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Interactable/CoinPickup.uasset" 923
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Interactable/CoinPickup.uexp" 924
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Interactable/CheckPoint.uasset" 925
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Interactable/CheckPoint.uexp" 926
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Geometry/Meshes/TemplateFloor.uasset" 927
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Geometry/Meshes/TemplateFloor.uexp" 928
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Geometry/Meshes/1M_Cube.uasset" 929
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Geometry/Meshes/1M_Cube.uexp" 930
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Core/FadeInDefaultTextMat.uasset" 931
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Core/FadeInDefaultTextMat.uexp" 932
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uasset" 933
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uexp" 934
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPerson/Meshes/LeftArm_StaticMesh.uasset" 935
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPerson/Meshes/LeftArm_StaticMesh.uexp" 936
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/22_Game_Jam_-_1_29_22__2_42_PM.uasset" 937
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/22_Game_Jam_-_1_29_22__2_42_PM.uexp" 938
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/22_Game_Jam_-_1_29_22__2_42_PM_Cue.uasset" 939
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/22_Game_Jam_-_1_29_22__2_42_PM_Cue.uexp" 940
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_WA_Grassy.uasset" 941
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_WA_Grassy.uexp" 942
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_WA_AncientPanel1.uasset" 943
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_WA_AncientPanel1.uexp" 944
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_spiderweb.uasset" 945
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_spiderweb.uexp" 946
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_spiderweb.ubulk" 947
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_SpiderWeb.uasset" 948
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_SpiderWeb.uexp" 949
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_minecart.uasset" 950
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_minecart.uexp" 951
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_woodgrain.uasset" 952
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_woodgrain.uexp" 953
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_woodgrain.ubulk" 954
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_WA_WoodGrain.uasset" 955
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_WA_WoodGrain.uexp" 956
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_minecart_rail.uasset" 957
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_minecart_rail.uexp" 958
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_pot1.uasset" 959
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_pot1.uexp" 960
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_mask_woodplanks.uasset" 961
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_mask_woodplanks.uexp" 962
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_mask_woodplanks.ubulk" 963
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_WA_WoodPlanks1.uasset" 964
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_WA_WoodPlanks1.uexp" 965
 "D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.uexp" 966
 "D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" 967
 "../../../Engine/Content/Maps/Entry_BuiltData.uasset" 968
