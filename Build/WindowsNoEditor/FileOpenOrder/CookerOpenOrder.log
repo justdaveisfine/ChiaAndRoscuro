@@ -1,0 +1,972 @@
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_ancientpanel1.uasset" 0
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_ancientpanel1.uexp" 1
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_ancientpanel1.ubulk" 2
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_AncientPanel_Moving.uasset" 3
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_AncientPanel_Moving.uexp" 4
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_mask_grassyfloor1.uasset" 5
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_mask_grassyfloor1.uexp" 6
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_mask_grassyfloor1.ubulk" 7
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_mask_brickwall1.uasset" 8
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_mask_brickwall1.uexp" 9
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_mask_brickwall1.ubulk" 10
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 11
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uexp" 12
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.ubulk" 13
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uasset" 14
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.uexp" 15
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uasset" 16
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.uexp" 17
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/WorldAlignedTexture.uasset" 18
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/WorldAlignedTexture.uexp" 19
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_WA_Master.uasset" 20
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_WA_Master.uexp" 21
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_WA_Brick2.uasset" 22
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_WA_Brick2.uexp" 23
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 24
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uexp" 25
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Core/FadeInDefaultTextMat2.uasset" 26
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Core/FadeInDefaultTextMat2.uexp" 27
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Geometry/Meshes/CubeMaterial.uasset" 28
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Geometry/Meshes/CubeMaterial.uexp" 29
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" 30
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Geometry/Meshes/1M_Cube_Chamfer.uexp" 31
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_ancientpanel2.uasset" 32
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_ancientpanel2.uexp" 33
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_ancientpanel2.ubulk" 34
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_WA_Panel2.uasset" 35
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_WA_Panel2.uexp" 36
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_Glowy.uasset" 37
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_Glowy.uexp" 38
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_button.uasset" 39
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_button.uexp" 40
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/switchactivate.uasset" 41
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/switchactivate.uexp" 42
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 43
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uexp" 44
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Interactable/Interactable_Template.uasset" 45
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Interactable/Interactable_Template.uexp" 46
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Interactable/Int_Switch.uasset" 47
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Interactable/Int_Switch.uexp" 48
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset" 49
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uexp" 50
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Animations/ThirdPersonJump_End.uasset" 51
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Animations/ThirdPersonJump_End.uexp" 52
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Animations/ThirdPersonWalk.uasset" 53
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Animations/ThirdPersonWalk.uexp" 54
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Animations/ThirdPersonRun.uasset" 55
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Animations/ThirdPersonRun.uexp" 56
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Animations/ThirdPersonIdle.uasset" 57
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Animations/ThirdPersonIdle.uexp" 58
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset" 59
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uexp" 60
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Animations/ThirdPerson_Jump.uasset" 61
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Animations/ThirdPerson_Jump.uexp" 62
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset" 63
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Animations/ThirdPersonJump_Start.uexp" 64
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset" 65
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Animations/ThirdPersonJump_Loop.uexp" 66
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset" 67
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Animations/ThirdPerson_AnimBP.uexp" 68
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset" 69
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uexp" 70
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Textures/T_UE4Logo_N.uasset" 71
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Textures/T_UE4Logo_N.uexp" 72
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Textures/T_UE4Logo_N.ubulk" 73
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Textures/T_UE4Logo_Mask.uasset" 74
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Textures/T_UE4Logo_Mask.uexp" 75
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Textures/T_UE4Logo_Mask.ubulk" 76
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Textures/T_Male_N.uasset" 77
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Textures/T_Male_N.uexp" 78
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Textures/T_Male_N.ubulk" 79
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Textures/T_Male_Mask.uasset" 80
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Textures/T_Male_Mask.uexp" 81
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Textures/T_Male_Mask.ubulk" 82
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset" 83
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uexp" 84
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.ubulk" 85
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset" 86
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uexp" 87
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.ubulk" 88
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset" 89
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uexp" 90
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.ubulk" 91
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset" 92
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uexp" 93
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.ubulk" 94
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset" 95
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uexp" 96
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset" 97
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uexp" 98
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset" 99
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uexp" 100
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset" 101
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uexp" 102
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uasset" 103
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_Simple.uexp" 104
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 105
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uexp" 106
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uasset" 107
+"../../../Engine/Content/Functions/MaterialLayerFunctions/MatLayerBlend_NormalBlend.uexp" 108
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Materials/M_Male_Body.uasset" 109
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Materials/M_Male_Body.uexp" 110
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset" 111
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uexp" 112
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset" 113
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Mesh/SK_Mannequin.uexp" 114
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Mesh/SK_Mannequin_Female_PhysicsAsset.uasset" 115
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Mesh/SK_Mannequin_Female_PhysicsAsset.uexp" 116
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Textures/T_Female_N.uasset" 117
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Textures/T_Female_N.uexp" 118
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Textures/T_Female_N.ubulk" 119
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Textures/T_Female_Mask.uasset" 120
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Textures/T_Female_Mask.uexp" 121
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Textures/T_Female_Mask.ubulk" 122
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Materials/MI_Female_Body.uasset" 123
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Materials/MI_Female_Body.uexp" 124
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Mesh/SK_Mannequin_Female.uasset" 125
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Mannequin/Character/Mesh/SK_Mannequin_Female.uexp" 126
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/EffectsClass.uasset" 127
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/EffectsClass.uexp" 128
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/doorlatch.uasset" 129
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/doorlatch.uexp" 130
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/s_Ambience_b.uasset" 131
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/s_Ambience_b.uexp" 132
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPerson/Meshes/RampMaterial.uasset" 133
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPerson/Meshes/RampMaterial.uexp" 134
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPerson/Meshes/Bump_StaticMesh.uasset" 135
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPerson/Meshes/Bump_StaticMesh.uexp" 136
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPerson/Meshes/Ramp_StaticMesh.uasset" 137
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPerson/Meshes/Ramp_StaticMesh.uexp" 138
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPerson/Meshes/RightArm_StaticMesh.uasset" 139
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPerson/Meshes/RightArm_StaticMesh.uexp" 140
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/roscuro_rig_Skeleton.uasset" 141
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/roscuro_rig_Skeleton.uexp" 142
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 143
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uexp" 144
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uasset" 145
+"../../../Engine/Content/Animation/DefaultAnimBoneCompressionSettings.uexp" 146
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/AS_run_default.uasset" 147
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/AS_run_default.uexp" 148
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/AS_idle_default.uasset" 149
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/AS_idle_default.uexp" 150
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/AS_fall_default.uasset" 151
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/AS_fall_default.uexp" 152
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/lightpatter2.uasset" 153
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/lightpatter2.uexp" 154
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/lightpatter1.uasset" 155
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/lightpatter1.uexp" 156
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/Tile_Walking_Cue.uasset" 157
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/Tile_Walking_Cue.uexp" 158
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/Roscuro_AnimBP.uasset" 159
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/Roscuro_AnimBP.uexp" 160
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/Chia_Anim_BP.uasset" 161
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/Chia_Anim_BP.uexp" 162
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/roscuro_rig_PhysicsAsset.uasset" 163
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/roscuro_rig_PhysicsAsset.uexp" 164
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/roscuro_mouth_neutral.uasset" 165
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/roscuro_mouth_neutral.uexp" 166
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/roscuro_mouth_neutral.ubulk" 167
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/roscuro_eye_neutral.uasset" 168
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/roscuro_eye_neutral.uexp" 169
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/roscuro_eye_neutral.ubulk" 170
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/MM_charFace.uasset" 171
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/MM_charFace.uexp" 172
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/MI_roscuroMouth.uasset" 173
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/MI_roscuroMouth.uexp" 174
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/MI_roscuroEyes.uasset" 175
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/MI_roscuroEyes.uexp" 176
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/roscuro_color_sheet.uasset" 177
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/roscuro_color_sheet.uexp" 178
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/roscuro_color_sheet.ubulk" 179
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 180
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uexp" 181
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/MM_charBody.uasset" 182
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/MM_charBody.uexp" 183
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/MI_roscuroBody.uasset" 184
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/MI_roscuroBody.uexp" 185
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/roscuro_rig.uasset" 186
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/roscuro_rig.uexp" 187
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/sizzle.uasset" 188
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/sizzle.uexp" 189
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/sizzle_Cue.uasset" 190
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/sizzle_Cue.uexp" 191
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/DialogueClass.uasset" 192
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/DialogueClass.uexp" 193
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/hyahmale.uasset" 194
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/hyahmale.uexp" 195
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/hyahmale_Cue.uasset" 196
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/hyahmale_Cue.uexp" 197
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_button1_hollow.uasset" 198
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_button1_hollow.uexp" 199
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_button1_hollow.ubulk" 200
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_playerhearts.uasset" 201
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_playerhearts.uexp" 202
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Core/Fonts/LuxuriousRoman-Regular.uasset" 203
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Core/Fonts/LuxuriousRoman-Regular.uexp" 204
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Core/Fonts/LuxuriousRoman-Regular.ufont" 205
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Core/Fonts/LuxuriousRoman-Regular_Font.uasset" 206
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Core/Fonts/LuxuriousRoman-Regular_Font.uexp" 207
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/UI/PlayerUI.uasset" 208
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/UI/PlayerUI.uexp" 209
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Core/InteractingComponent.uasset" 210
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Core/InteractingComponent.uexp" 211
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/UI/Pause_UI.uasset" 212
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/UI/Pause_UI.uexp" 213
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/chia_rig_PhysicsAsset.uasset" 214
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/chia_rig_PhysicsAsset.uexp" 215
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/chia_mouth_neutral.uasset" 216
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/chia_mouth_neutral.uexp" 217
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/chia_mouth_neutral.ubulk" 218
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/MI_chiaMouth.uasset" 219
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/MI_chiaMouth.uexp" 220
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/chia_eye_neutral.uasset" 221
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/chia_eye_neutral.uexp" 222
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/chia_eye_neutral.ubulk" 223
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/MI_chiaEyes.uasset" 224
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/MI_chiaEyes.uexp" 225
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/chia_dress.uasset" 226
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/chia_dress.uexp" 227
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/chia_dress.ubulk" 228
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/MM_charClothes.uasset" 229
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/MM_charClothes.uexp" 230
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/MI_chiaDress.uasset" 231
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/MI_chiaDress.uexp" 232
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/chia_color_sheet.uasset" 233
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/chia_color_sheet.uexp" 234
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/chia_color_sheet.ubulk" 235
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/MI_chiaBody.uasset" 236
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/MI_chiaBody.uexp" 237
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/chia_rig.uasset" 238
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/chia_rig.uexp" 239
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/hyahfemake.uasset" 240
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/hyahfemake.uexp" 241
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/hyahfemake_Cue.uasset" 242
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/hyahfemake_Cue.uexp" 243
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/Char_Chia.uasset" 244
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/Char_Chia.uexp" 245
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Core/CoreGameInstance.uasset" 246
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Core/CoreGameInstance.uexp" 247
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Core/CoreGameMode.uasset" 248
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Core/CoreGameMode.uexp" 249
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/Char_Roscuro.uasset" 250
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/Char_Roscuro.uexp" 251
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset" 252
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uexp" 253
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 254
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uexp" 255
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.ubulk" 256
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 257
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uexp" 258
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.ubulk" 259
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 260
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uexp" 261
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 262
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uexp" 263
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 264
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uexp" 265
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 266
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uexp" 267
+"../../../Engine/Content/BasicShapes/Cone.uasset" 268
+"../../../Engine/Content/BasicShapes/Cone.uexp" 269
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 270
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uexp" 271
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 272
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uexp" 273
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 274
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uexp" 275
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 276
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uexp" 277
+"../../../Engine/Content/EngineResources/Black.uasset" 278
+"../../../Engine/Content/EngineResources/Black.uexp" 279
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 280
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uexp" 281
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 282
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uexp" 283
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 284
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uexp" 285
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 286
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uexp" 287
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 288
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uexp" 289
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 290
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uexp" 291
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 292
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uexp" 293
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 294
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uexp" 295
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 296
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uexp" 297
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 298
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uexp" 299
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 300
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uexp" 301
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 302
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uexp" 303
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 304
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uexp" 305
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.ubulk" 306
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 307
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uexp" 308
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.ubulk" 309
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 310
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uexp" 311
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 312
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uexp" 313
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 314
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uexp" 315
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 316
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uexp" 317
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 318
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uexp" 319
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 320
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uexp" 321
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 322
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uexp" 323
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 324
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uexp" 325
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 326
+"../../../Engine/Content/EditorResources/BSPVertex.uexp" 327
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 328
+"../../../Engine/Content/EditorResources/EmptyActor.uexp" 329
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 330
+"../../../Engine/Content/EditorResources/S_Actor.uexp" 331
+"../../../Engine/Content/EditorResources/S_Actor.ubulk" 332
+"../../../Engine/Content/EditorResources/S_Note.uasset" 333
+"../../../Engine/Content/EditorResources/S_Note.uexp" 334
+"../../../Engine/Content/EditorResources/S_Note.ubulk" 335
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 336
+"../../../Engine/Content/EditorResources/S_Solver.uexp" 337
+"../../../Engine/Content/EditorResources/S_Solver.ubulk" 338
+"../../../Engine/Content/EditorResources/S_Terrain.uasset" 339
+"../../../Engine/Content/EditorResources/S_Terrain.uexp" 340
+"../../../Engine/Content/EditorResources/S_Terrain.ubulk" 341
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 342
+"../../../Engine/Content/EditorResources/S_Trigger.uexp" 343
+"../../../Engine/Content/EditorResources/S_Trigger.ubulk" 344
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 345
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uexp" 346
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.ubulk" 347
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 348
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uexp" 349
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 350
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uexp" 351
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 352
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uexp" 353
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 354
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uexp" 355
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 356
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uexp" 357
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 358
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uexp" 359
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 360
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uexp" 361
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 362
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uexp" 363
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 364
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uexp" 365
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 366
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uexp" 367
+"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uasset" 368
+"../../../Engine/Content/EngineDebugMaterials/VertexColorMaterial.uexp" 369
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 370
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uexp" 371
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 372
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uexp" 373
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.ufont" 374
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 375
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uexp" 376
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.ufont" 377
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 378
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uexp" 379
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.ufont" 380
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 381
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uexp" 382
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.ufont" 383
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 384
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uexp" 385
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont" 386
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 387
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uexp" 388
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.ufont" 389
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 390
+"../../../Engine/Content/EngineFonts/Roboto.uexp" 391
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 392
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uexp" 393
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 394
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uexp" 395
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 396
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uexp" 397
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 398
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uexp" 399
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 400
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uexp" 401
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 402
+"../../../Engine/Content/EngineMaterials/BlueNoise.uexp" 403
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 404
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uexp" 405
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 406
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uexp" 407
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 408
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uexp" 409
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 410
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uexp" 411
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 412
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uexp" 413
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 414
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uexp" 415
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 416
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uexp" 417
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 418
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uexp" 419
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.ubulk" 420
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 421
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uexp" 422
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 423
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uexp" 424
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 425
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uexp" 426
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 427
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uexp" 428
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 429
+"../../../Engine/Content/EngineMaterials/MiniFont.uexp" 430
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 431
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uexp" 432
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.ubulk" 433
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 434
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uexp" 435
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 436
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uexp" 437
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 438
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uexp" 439
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationColor.uasset" 440
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationColor.uexp" 441
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationColor.uasset" 442
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationColor.uexp" 443
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationGrayscale.uasset" 444
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationGrayscale.uexp" 445
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationGrayscale.uasset" 446
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationGrayscale.uexp" 447
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 448
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uexp" 449
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 450
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uexp" 451
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 452
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uexp" 453
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 454
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uexp" 455
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 456
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uexp" 457
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 458
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uexp" 459
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 460
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uexp" 461
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 462
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uexp" 463
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 464
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uexp" 465
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 466
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uexp" 467
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 468
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uexp" 469
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 470
+"../../../Engine/Content/EngineMeshes/Cylinder.uexp" 471
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 472
+"../../../Engine/Content/EngineMeshes/Sphere.uexp" 473
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 474
+"../../../Engine/Content/EngineResources/DefaultTexture.uexp" 475
+"../../../Engine/Content/EngineResources/DefaultTexture.ubulk" 476
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 477
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uexp" 478
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 479
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uexp" 480
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 481
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uexp" 482
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 483
+"../../../Engine/Content/EngineResources/GradientTexture0.uexp" 484
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uasset" 485
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.uexp" 486
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseShape64.ubulk" 487
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uasset" 488
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseShape64.uexp" 489
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uasset" 490
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.uexp" 491
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_NoiseErosion.ubulk" 492
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uasset" 493
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_VolumeNoiseErosion32.uexp" 494
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uasset" 495
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudWeatherTexture.uexp" 496
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uasset" 497
+"../../../Engine/Content/EngineSky/VolumetricClouds/CloudGradientTexture.uexp" 498
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 499
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uexp" 500
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset" 501
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uexp" 502
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset" 503
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uexp" 504
+"../../../Engine/Content/EngineSounds/Master.uasset" 505
+"../../../Engine/Content/EngineSounds/Master.uexp" 506
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 507
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uexp" 508
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 509
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uexp" 510
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 511
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uexp" 512
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 513
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uexp" 514
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 515
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uexp" 516
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 517
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uexp" 518
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 519
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uexp" 520
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 521
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uexp" 522
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 523
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uexp" 524
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 525
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uexp" 526
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 527
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uexp" 528
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 529
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uexp" 530
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 531
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uexp" 532
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 533
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uexp" 534
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 535
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uexp" 536
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 537
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uexp" 538
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 539
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uexp" 540
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 541
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uexp" 542
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 543
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uexp" 544
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 545
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uexp" 546
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 547
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uexp" 548
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 549
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uexp" 550
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 551
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uexp" 552
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 553
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uexp" 554
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uasset" 555
+"../../../Engine/Content/Tutorial/Basics/TutorialAssets/icon_tab_Levels_40x.uexp" 556
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 557
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uexp" 558
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 559
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uexp" 560
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.ubulk" 561
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 562
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uexp" 563
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 564
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uexp" 565
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 566
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uexp" 567
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 568
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uexp" 569
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 570
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uexp" 571
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 572
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uexp" 573
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 574
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uexp" 575
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 576
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uexp" 577
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 578
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uexp" 579
+"../../../Engine/Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.ubulk" 580
+"../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uasset" 581
+"../../../Engine/Plugins/2D/Paper2D/Content/DummySprite.uexp" 582
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 583
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uexp" 584
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 585
+"../../../Engine/Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uexp" 586
+"../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 587
+"../../../Engine/Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uexp" 588
+"../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 589
+"../../../Engine/Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uexp" 590
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 591
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uexp" 592
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 593
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uexp" 594
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 595
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uexp" 596
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 597
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uexp" 598
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 599
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uexp" 600
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 601
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uexp" 602
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 603
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uexp" 604
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.ubulk" 605
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 606
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uexp" 607
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 608
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uexp" 609
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 610
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uexp" 611
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 612
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uexp" 613
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 614
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uexp" 615
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 616
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uexp" 617
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/EmptyNormal.uasset" 618
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/EmptyNormal.uexp" 619
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uasset" 620
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uexp" 621
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 622
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uexp" 623
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 624
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uexp" 625
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 626
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uexp" 627
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 628
+"../../../Engine/Content/BasicShapes/Cylinder.uexp" 629
+"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uasset" 630
+"../../../Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Emissive_Color.uexp" 631
+"../../../Engine/Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uasset" 632
+"../../../Engine/Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uexp" 633
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MRTexture.uasset" 634
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MRTexture.uexp" 635
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MRTexture.ubulk" 636
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/BaseTexture.uasset" 637
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/BaseTexture.uexp" 638
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/BaseTexture.ubulk" 639
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/M_XRController.uasset" 640
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/M_XRController.uexp" 641
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MI_GoogleDaydream.uasset" 642
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/MI_GoogleDaydream.uexp" 643
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/GoogleDaydreamController.uasset" 644
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/GoogleDaydream/GoogleDaydreamController.uexp" 645
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCVive/BaseTexture.uasset" 646
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCVive/BaseTexture.uexp" 647
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCVive/BaseTexture.ubulk" 648
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCVive/MI_HTCVive.uasset" 649
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCVive/MI_HTCVive.uexp" 650
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCVive/HTCViveController.uasset" 651
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/HTCVive/HTCViveController.uexp" 652
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/NormalTexture.uasset" 653
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/NormalTexture.uexp" 654
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/NormalTexture.ubulk" 655
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/MRTexture.uasset" 656
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/MRTexture.uexp" 657
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/MRTexture.ubulk" 658
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/EmissiveTexture.uasset" 659
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/EmissiveTexture.uexp" 660
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/EmissiveTexture.ubulk" 661
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/BaseTexture.uasset" 662
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/BaseTexture.uexp" 663
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/BaseTexture.ubulk" 664
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/MI_MicrosoftMixedReality.uasset" 665
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/MI_MicrosoftMixedReality.uexp" 666
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/Left/left_MicrosoftMixedRealityController.uasset" 667
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/Left/left_MicrosoftMixedRealityController.uexp" 668
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/Right/right_MicrosoftMixedRealityController.uasset" 669
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/MicrosoftMixedReality/Right/right_MicrosoftMixedRealityController.uexp" 670
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusGo/BaseTexture.uasset" 671
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusGo/BaseTexture.uexp" 672
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusGo/BaseTexture.ubulk" 673
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusGo/MI_OculusGo.uasset" 674
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusGo/MI_OculusGo.uexp" 675
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusGo/OculusGoController.uasset" 676
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusGo/OculusGoController.uexp" 677
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/MRTexture.uasset" 678
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/MRTexture.uexp" 679
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/MRTexture.ubulk" 680
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/BaseTexture.uasset" 681
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/BaseTexture.uexp" 682
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/BaseTexture.ubulk" 683
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/MI_OculusTouch.uasset" 684
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/MI_OculusTouch.uexp" 685
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/Left/left_OculusTouchController.uasset" 686
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/Left/left_OculusTouchController.uexp" 687
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/Right/right_OculusTouchController.uasset" 688
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch/Right/right_OculusTouchController.uexp" 689
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MRTexture.uasset" 690
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MRTexture.uexp" 691
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MRTexture.ubulk" 692
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/BaseTexture.uasset" 693
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/BaseTexture.uexp" 694
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/BaseTexture.ubulk" 695
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MI_OculusTouch_v2.uasset" 696
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/MI_OculusTouch_v2.uexp" 697
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/Left/left_OculusTouch_v2Controller.uasset" 698
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/Left/left_OculusTouch_v2Controller.uexp" 699
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/Right/right_OculusTouch_v2Controller.uasset" 700
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v2/Right/right_OculusTouch_v2Controller.uexp" 701
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/MRTexture.uasset" 702
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/MRTexture.uexp" 703
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/MRTexture.ubulk" 704
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/BaseTexture.uasset" 705
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/BaseTexture.uexp" 706
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/BaseTexture.ubulk" 707
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/MI_OculusTouch_v3.uasset" 708
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/MI_OculusTouch_v3.uexp" 709
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/Left/left_OculusTouch_v3Controller.uasset" 710
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/Left/left_OculusTouch_v3Controller.uexp" 711
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/Right/right_OculusTouch_v3Controller.uasset" 712
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/OculusTouch_v3/Right/right_OculusTouch_v3Controller.uexp" 713
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/MRTexture.uasset" 714
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/MRTexture.uexp" 715
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/MRTexture.ubulk" 716
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/BaseTexture.uasset" 717
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/BaseTexture.uexp" 718
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/BaseTexture.ubulk" 719
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Left/MI_left_ValveIndex.uasset" 720
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Left/MI_left_ValveIndex.uexp" 721
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Left/left_ValveIndexController.uasset" 722
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Left/left_ValveIndexController.uexp" 723
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Right/MI_right_ValveIndex.uasset" 724
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Right/MI_right_ValveIndex.uexp" 725
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Right/right_ValveIndexController.uasset" 726
+"../../../Engine/Plugins/Runtime/OpenXR/Content/Devices/ValveIndex/Right/right_ValveIndexController.uexp" 727
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 728
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uexp" 729
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 730
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uexp" 731
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 732
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uexp" 733
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 734
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uexp" 735
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uasset" 736
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/PokeAHoleMaterial.uexp" 737
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uasset" 738
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.uexp" 739
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_controlmap.ubulk" 740
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uasset" 741
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.uexp" 742
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/touchController_albedo.ubulk" 743
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uasset" 744
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/touchController_mat.uexp" 745
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uasset" 746
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchController.uexp" 747
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/TouchForQuestRiftSController_albedo.uasset" 748
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/TouchForQuestRiftSController_albedo.uexp" 749
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Textures/TouchForQuestRiftSController_albedo.ubulk" 750
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/TouchForQuestRiftSControllerMaterial.uasset" 751
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/TouchForQuestRiftSControllerMaterial.uexp" 752
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchForQuestRiftSController.uasset" 753
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/LeftTouchForQuestRiftSController.uexp" 754
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uasset" 755
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RiftHMD.uexp" 756
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uasset" 757
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uexp" 758
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchForQuestRiftSController.uasset" 759
+"../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchForQuestRiftSController.uexp" 760
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/CutsceneCards/T_cutscene_intro_01.uasset" 761
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/CutsceneCards/T_cutscene_intro_01.uexp" 762
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/CutsceneCards/T_cutscene_intro_01_Mat.uasset" 763
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/CutsceneCards/T_cutscene_intro_01_Mat.uexp" 764
+"../../../Engine/Content/BasicShapes/Plane.uasset" 765
+"../../../Engine/Content/BasicShapes/Plane.uexp" 766
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/Cutscene_Pawn.uasset" 767
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/Cutscene_Pawn.uexp" 768
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Core/CutsceneGameMode.uasset" 769
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Core/CutsceneGameMode.uexp" 770
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_ancientpanel3.uasset" 771
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_ancientpanel3.uexp" 772
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_ancientpanel3.ubulk" 773
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_WA_Panel4.uasset" 774
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_WA_Panel4.uexp" 775
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Maps/Cutscene_Intro.uexp" 776
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Maps/Cutscene_Intro.umap" 777
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/CutsceneCards/T_cutscene_outro_01.uasset" 778
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/CutsceneCards/T_cutscene_outro_01.uexp" 779
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/CutsceneCards/T_cutscene_outro_01_Mat.uasset" 780
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/CutsceneCards/T_cutscene_outro_01_Mat.uexp" 781
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_WA_Ceramic.uasset" 782
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_WA_Ceramic.uexp" 783
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Maps/Cutscene_Outro.uexp" 784
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Maps/Cutscene_Outro.umap" 785
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_flatrug.uasset" 786
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_flatrug.uexp" 787
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_mask_grass1.uasset" 788
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_mask_grass1.uexp" 789
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_mask_grass1.ubulk" 790
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/WorldPositionOffset/SimpleGrassWind.uasset" 791
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/WorldPositionOffset/SimpleGrassWind.uexp" 792
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_Grass1.uasset" 793
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_Grass1.uexp" 794
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_grass1.uasset" 795
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_grass1.uexp" 796
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_pillar1.uasset" 797
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_pillar1.uexp" 798
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_strut1.uasset" 799
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_strut1.uexp" 800
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_arch1.uasset" 801
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_arch1.uexp" 802
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_WA_Panel3.uasset" 803
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_WA_Panel3.uexp" 804
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_Glowy_Inert.uasset" 805
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_Glowy_Inert.uexp" 806
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_light1.uasset" 807
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_light1.uexp" 808
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uasset" 809
+"../../../Engine/Content/MapTemplates/SM_Template_Map_Floor.uexp" 810
+"../../../Engine/Content/MapTemplates/daylight.uasset" 811
+"../../../Engine/Content/MapTemplates/daylight.uexp" 812
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 813
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uexp" 814
+"../../../Engine/Content/EngineSky/T_Sky_Stars.ubulk" 815
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 816
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uexp" 817
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.ubulk" 818
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 819
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uexp" 820
+"../../../Engine/Content/EngineSky/T_Sky_Blue.ubulk" 821
+"../../../Engine/Content/BasicShapes/Cube.uasset" 822
+"../../../Engine/Content/BasicShapes/Cube.uexp" 823
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 824
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uexp" 825
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Maps/MM_Map_BuiltData.uasset" 826
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Maps/MM_Map_BuiltData.uexp" 827
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 828
+"../../../Engine/Content/EngineSky/SM_SkySphere.uexp" 829
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 830
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uexp" 831
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 832
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uexp" 833
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 834
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uexp" 835
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 836
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uexp" 837
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/MusicClass.uasset" 838
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/MusicClass.uexp" 839
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/ms_test_menu.uasset" 840
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/ms_test_menu.uexp" 841
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_button1.uasset" 842
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_button1.uexp" 843
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_button1.ubulk" 844
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/UI/MM_UI.uasset" 845
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/UI/MM_UI.uexp" 846
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/MM_Pawn.uasset" 847
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Blueprints/MM_Pawn.uexp" 848
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Core/MMGameMode.uasset" 849
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Core/MMGameMode.uexp" 850
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_mask_tilefloor1.uasset" 851
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_mask_tilefloor1.uexp" 852
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_mask_tilefloor1.ubulk" 853
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_WA_Tile1.uasset" 854
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_WA_Tile1.uexp" 855
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_WA_Fabric1.uasset" 856
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_WA_Fabric1.uexp" 857
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_WA_Brick1.uasset" 858
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_WA_Brick1.uexp" 859
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_mask_vines1.uasset" 860
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_mask_vines1.uexp" 861
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_mask_vines1.ubulk" 862
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_Vines.uasset" 863
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_Vines.uexp" 864
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_Glowy2.uasset" 865
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_Glowy2.uexp" 866
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Maps/MM_Map.uexp" 867
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Maps/MM_Map.umap" 868
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_woodgrain.uasset" 869
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_woodgrain.uexp" 870
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_woodgrain.ubulk" 871
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_WA_WoodGrain.uasset" 872
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_WA_WoodGrain.uexp" 873
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_minecart_rail.uasset" 874
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_minecart_rail.uexp" 875
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_pot1.uasset" 876
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_pot1.uexp" 877
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_minecart.uasset" 878
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_minecart.uexp" 879
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_mask_woodplanks.uasset" 880
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_mask_woodplanks.uexp" 881
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_mask_woodplanks.ubulk" 882
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_WA_WoodPlanks1.uasset" 883
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_WA_WoodPlanks1.uexp" 884
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 885
+"../../../Engine/Content/BasicShapes/Sphere.uexp" 886
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset" 887
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uexp" 888
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uasset" 889
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uexp" 890
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPerson/Meshes/LeftArm_StaticMesh.uasset" 891
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPerson/Meshes/LeftArm_StaticMesh.uexp" 892
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/22_Game_Jam_-_1_29_22__2_42_PM.uasset" 893
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/22_Game_Jam_-_1_29_22__2_42_PM.uexp" 894
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/22_Game_Jam_-_1_29_22__2_42_PM_Cue.uasset" 895
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/22_Game_Jam_-_1_29_22__2_42_PM_Cue.uexp" 896
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/LightBPs/M_PitchBlack.uasset" 897
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/LightBPs/M_PitchBlack.uexp" 898
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/LightBPs/M_BlackFog.uasset" 899
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/LightBPs/M_BlackFog.uexp" 900
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/LightBPs/T_gobo_damagedCeiling02.uasset" 901
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/LightBPs/T_gobo_damagedCeiling02.uexp" 902
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/LightBPs/T_gobo_damagedCeiling02.ubulk" 903
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/LightBPs/T_gobo_damagedCeiling01.uasset" 904
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/LightBPs/T_gobo_damagedCeiling01.uexp" 905
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/LightBPs/T_gobo_damagedCeiling01.ubulk" 906
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/LightBPs/MM_gobo.uasset" 907
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/LightBPs/MM_gobo.uexp" 908
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/LightBPs/MI_gobo_damagedCeiling02_Smaller.uasset" 909
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/LightBPs/MI_gobo_damagedCeiling02_Smaller.uexp" 910
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/LightBPs/MI_gobo_damagedCeiling02.uasset" 911
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/LightBPs/MI_gobo_damagedCeiling02.uexp" 912
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/LightBPs/MI_gobo_damagedCeiling01.uasset" 913
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/LightBPs/MI_gobo_damagedCeiling01.uexp" 914
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/LightBPs/Light_NoLightTrigger.uasset" 915
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/LightBPs/Light_NoLightTrigger.uexp" 916
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_Blank.uasset" 917
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_Blank.uexp" 918
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_lightcone.uasset" 919
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_lightcone.uexp" 920
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/LightBPs/Light_Spotlight.uasset" 921
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/LightBPs/Light_Spotlight.uexp" 922
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_AncientPanel_Moving1.uasset" 923
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_AncientPanel_Moving1.uexp" 924
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_spotlight.uasset" 925
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_spotlight.uexp" 926
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Interactable/Int_SwitchedRotatingLight.uasset" 927
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Interactable/Int_SwitchedRotatingLight.uexp" 928
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_platform.uasset" 929
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/sm_platform.uexp" 930
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Interactable/Int_SwitchedPlatform_Moving.uasset" 931
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Interactable/Int_SwitchedPlatform_Moving.uexp" 932
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Interactable/Int_SwitchedPlatform.uasset" 933
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Interactable/Int_SwitchedPlatform.uexp" 934
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/LightBPs/Light_Area.uasset" 935
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/LightBPs/Light_Area.uexp" 936
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Interactable/Int_SwitchedLightOn.uasset" 937
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Interactable/Int_SwitchedLightOn.uexp" 938
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Interactable/Int_SwitchedLight.uasset" 939
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Interactable/Int_SwitchedLight.uexp" 940
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/doorclosing.uasset" 941
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Sounds/doorclosing.uexp" 942
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Interactable/Int_SwitchedDoor.uasset" 943
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Interactable/Int_SwitchedDoor.uexp" 944
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_Shiny.uasset" 945
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_Shiny.uexp" 946
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Interactable/CoinPickup.uasset" 947
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Interactable/CoinPickup.uexp" 948
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Interactable/CheckPoint.uasset" 949
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Interactable/CheckPoint.uexp" 950
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Geometry/Meshes/TemplateFloor.uasset" 951
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Geometry/Meshes/TemplateFloor.uexp" 952
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Geometry/Meshes/1M_Cube.uasset" 953
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Geometry/Meshes/1M_Cube.uexp" 954
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Core/FadeInDefaultTextMat.uasset" 955
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Core/FadeInDefaultTextMat.uexp" 956
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_WA_Grassy.uasset" 957
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_WA_Grassy.uexp" 958
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_WA_AncientPanel1.uasset" 959
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_WA_AncientPanel1.uexp" 960
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_spiderweb.uasset" 961
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_spiderweb.uexp" 962
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/Textures/t_spiderweb.ubulk" 963
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_SpiderWeb.uasset" 964
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/Assets/M_SpiderWeb.uexp" 965
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.uexp" 966
+"D:/Users/Dave/Documents/Unreal Projects/ChiaAndRoscuro/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" 967
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 968
+"../../../Engine/Content/Maps/Entry_BuiltData.uexp" 969
+"../../../Engine/Content/Maps/Entry.uexp" 970
+"../../../Engine/Content/Maps/Entry.umap" 971
